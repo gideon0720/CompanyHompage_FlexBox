@@ -17,6 +17,10 @@ p {
   color: black;
 }
 
+p {
+  letter-spacing: 0.2rem;
+}
+
 h1,
 h2,
 h3 {
